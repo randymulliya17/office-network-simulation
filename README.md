@@ -1,4 +1,4 @@
-<img width="717" height="749" alt="vlan2-config" src="https://github.com/user-attachments/assets/89eb4162-bec6-44aa-834e-b0cc21ce3505" />Office Network Infrastructure Simulation
+Office Network Infrastructure Simulation
 
 Tools:
 Cisco Packet Tracer
