@@ -1,7 +1,9 @@
 Office Network Infrastructure Simulation
 
 Tools:
-Cisco Packet Tracer
+- Cisco Packet Tracer
+- GitHub
+- GitHub Pages
 
 Topology:
 1 Router
@@ -14,6 +16,14 @@ Features:
 - Trunk between switches
 - Inter VLAN routing
 - DHCP configuration
+
+Skill Demonstrated
+- VLAN Configuration
+- Trunk Configuration
+- Inter-Switch Communication
+- IP Addressing
+- Network Troubleshooting
+- Cisco Packet Tracer Simulation
 
 Testing:
 All devices successfully communicate across VLANs.
@@ -44,3 +54,15 @@ All devices successfully communicate across VLANs.
 6.Router DHCP Binding
    
 <img width="718" height="746" alt="router-DHCP-binding" src="https://github.com/user-attachments/assets/225e47a8-4777-47bf-8f75-bb6fb7a37076" />
+
+
+Connectivity Test
+PC 1 Ke PC 2 Dan PC 3
+
+<img width="707" height="755" alt="Test Ping PC 1 ke PC 2 dan 3" src="https://github.com/user-attachments/assets/4dc86809-9d81-44b8-b038-4c97ae00f8b4" />
+
+
+PC 4 Ke PC 2 Dan PC 6
+
+
+<img width="704" height="751" alt="Test Ping PC 4 Ke PC 2 dan 6" src="https://github.com/user-attachments/assets/55bf7d72-1a51-4e1d-a686-fa6276462a50" />
