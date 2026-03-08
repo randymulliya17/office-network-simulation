@@ -66,3 +66,12 @@ PC 4 Ke PC 2 Dan PC 6
 
 
 <img width="704" height="751" alt="Test Ping PC 4 Ke PC 2 dan 6" src="https://github.com/user-attachments/assets/55bf7d72-1a51-4e1d-a686-fa6276462a50" />
+
+
+Troubleshooting
+
+Problem:
+PC tidak bisa ping antar VLAN
+
+Solution:
+Configure Router-on-a-Stick and trunk port on switch
